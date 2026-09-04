@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## [2.2.1] - 2026-09-04
+
 ### Fixed
 
 - Terminal transport failures now propagate through OpenCode's native retry and error pipeline instead of appearing as successful assistant text.
